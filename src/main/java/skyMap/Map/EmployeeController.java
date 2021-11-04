@@ -1,4 +1,4 @@
-package SkyMap.Map;
+package skyMap.Map;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

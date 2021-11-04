@@ -1,4 +1,4 @@
-package SkyMap.Map;
+package skyMap.Map;
 
 import java.util.Objects;
 
